@@ -5,16 +5,17 @@ Home:
 
 
 About:
-![About-desktop-full](https://github.com/user-attachments/assets/6f0fb667-94ad-45e3-95ea-e76fd595aa4c)
+![Screenshot 2024-09-06 230557](https://github.com/user-attachments/assets/e9827e05-a9a2-42cc-92ac-b6954d84b1d2)
 
 
 Project:
-![Projects-desktop](https://github.com/user-attachments/assets/ea1c0803-2a69-4647-ad91-88adc5741a0d)
 
+![Screenshot 2024-09-06 230708](https://github.com/user-attachments/assets/60357126-d0b4-45c1-90ed-3f354f89ad73)
 
 
 Contact:
-![Contact-desktop](https://github.com/user-attachments/assets/13c0231f-897e-4e17-b073-f5cc0ba7b58b)
+
+![Screenshot 2024-09-06 230751](https://github.com/user-attachments/assets/f36cf7d7-2c30-4252-bc3c-c6a2f9042e12)
 
 
 Resources Used in This Project:
